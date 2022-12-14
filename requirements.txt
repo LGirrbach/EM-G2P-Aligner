@@ -1,0 +1,6 @@
+rich~=12.2.0
+numpy~=1.21.2
+tqdm~=4.63.0
+nltk~=3.7
+requests~=2.27.1
+pandas~=1.4.1
